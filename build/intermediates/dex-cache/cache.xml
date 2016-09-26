@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORKS/GANGSLAB/GPXLibrary/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Volumes/WORKS/GANGSLAB/GPXLibrary/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_45d7ae75396b4cc4850d1f66e4c16af2590b2b2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORKS/GANGSLAB/GPXLibrary/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Volumes/WORKS/GANGSLAB/GPXLibrary/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_591705997658399f3069c500bc2410173292657c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORKS/GANGSLAB/GPXLibrary/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Volumes/WORKS/GANGSLAB/GPXLibrary/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_1c0bb11930a813e2e4f9192fb4188953f21e4c38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORKS/GANGSLAB/GPXLibrary/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Volumes/WORKS/GANGSLAB/GPXLibrary/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_1c11fc71a825f471423adbadcfef68dc8c80c33a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORKS/GANGSLAB/GPXLibrary/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Volumes/WORKS/GANGSLAB/GPXLibrary/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_8d241c42e59198037de7bea04ab18efed9ad3152.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORKS/GANGSLAB/GPXLibrary/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="/Volumes/WORKS/GANGSLAB/GPXLibrary/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.6.1_d6705b99fa6acf3b5416c2e178d6a5a23ac94afa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORKS/GANGSLAB/GPXLibrary/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Volumes/WORKS/GANGSLAB/GPXLibrary/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_e9ab6519361a6d156efb6f873afaf637300fbbe8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORKS/GANGSLAB/GPXLibrary/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="62ff84124b89177abc0c27f3e38c9732f2d41617">
+        <dex dex="/Volumes/WORKS/GANGSLAB/GPXLibrary/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-9.6.1_c05b62bbd7c79381c65a8692332e3fb46e0bd0c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORKS/GANGSLAB/GPXLibrary/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Volumes/WORKS/GANGSLAB/GPXLibrary/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_51d8db82bbc4edfbc0b96c117240e8714a022571.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORKS/GANGSLAB/GPXLibrary/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Volumes/WORKS/GANGSLAB/GPXLibrary/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_160fa8eb0571432e1c10e089ee81cd8ff4d0f78c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORKS/GANGSLAB/GPXLibrary/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="/Volumes/WORKS/GANGSLAB/GPXLibrary/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.6.1_1ed8cc5bafbef6f7b66fcf0b90a835c3e6789e19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORKS/GANGSLAB/GPXLibrary/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Volumes/WORKS/GANGSLAB/GPXLibrary/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_1a3e27693c9a9af83fe8448e9f7acdeafaa1fcb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORKS/GANGSLAB/GPXLibrary/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Volumes/WORKS/GANGSLAB/GPXLibrary/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_da5790e690dfacfbc871be9a9f7a0e04264d2bea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gangs/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Volumes/WORKS/GANGSLAB/GPXLibrary/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_acd087de8dde95ae93e8ba6da8e7d6c8504553c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORKS/GANGSLAB/GPXLibrary/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Volumes/WORKS/GANGSLAB/GPXLibrary/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_b906283e3f668d03248cbea3115c714ae681502c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORKS/GANGSLAB/GPXLibrary/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Volumes/WORKS/GANGSLAB/GPXLibrary/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_96387678ed48ad3f8c44c949b504673e9f3c35f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORKS/GANGSLAB/GPXLibrary/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Volumes/WORKS/GANGSLAB/GPXLibrary/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_bc768525d6809c74e67f2580ffcfd6ff99435d80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORKS/GANGSLAB/GPXLibrary/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="/Volumes/WORKS/GANGSLAB/GPXLibrary/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.6.1_7fc158512ee1a4d783b91af124044f7c142769b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORKS/GANGSLAB/GPXLibrary/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Volumes/WORKS/GANGSLAB/GPXLibrary/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_d58ce98b485a645139e7f06a0b2320e10761aca8.jar" />
+    </item>
+
+</items>
